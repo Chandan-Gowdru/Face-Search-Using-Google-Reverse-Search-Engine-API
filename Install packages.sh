@@ -11,6 +11,5 @@ echo "Installing Request Packages"
 python -m pip install requests
 
 echo "All set!"
-echo "Now Just use facesearch path/to/image to use FaceSearch!"
 
 
